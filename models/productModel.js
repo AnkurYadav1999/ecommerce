@@ -12,9 +12,6 @@ const imageSchema = new Schema({
     }
 })
 
-// const reviewSchema = new Schema({
-          
-// })
 
 const productSchema = new Schema({
     name:{
